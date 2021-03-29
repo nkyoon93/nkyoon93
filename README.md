@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nkyoon93
 - 👀 I’m interested in DL, network 
-- 🌱 I’m currently in korea univ
-- 💞️ I’m looking to collaborate on anything 
+- 🌱 I’m currently in korea univ (In ph.D course)
+- 💞️ I worked as a researcher at KETI 
 - 📫 How to reach me -> nkyoon93@korea.ac.kr 
 
 <!---
