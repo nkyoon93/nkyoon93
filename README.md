@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namkyung
 - 👀 I
 - 🌱 I
-- 💞️ I worked as a researcher at KETI 
+- 💞️ I worked at KETI 
 - 📫 How to reach me -> nkyoon93@korea.ac.kr 
 
 <!---
