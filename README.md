@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nkyoon93
+- 👋 Hi, I’m @namkyung
 - 👀 I
 - 🌱 I
 - 💞️ I worked as a researcher at KETI 
